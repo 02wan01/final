@@ -9,7 +9,7 @@ namespace _410917978final.Controllers
     public class UserController : Controller
     {
         // GET: User
-        public ActionResult Index(string name,float music)
+        public ActionResult Index(string name, float number)
         {
             return View();
         }
